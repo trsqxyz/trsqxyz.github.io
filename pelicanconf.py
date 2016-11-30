@@ -40,6 +40,7 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'mytheme/notmyidea'
 TWITTER_USERNAME = 'trss'
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
