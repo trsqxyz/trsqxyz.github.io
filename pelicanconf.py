@@ -44,7 +44,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS =(('Archives', 'archives.html'),
-            ('Tags', 'tags.html'),
             ('About', 'pages/about.html'),
             )
 
