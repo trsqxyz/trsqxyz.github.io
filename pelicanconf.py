@@ -11,6 +11,10 @@ PATH = 'content'
 TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'jp'
+DATE_FORMATS = {
+    'en': '%Y-%m-%d',
+    'jp': '%Y-%m-%d',
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -34,7 +38,7 @@ SOCIAL = (('Twitter', 'https://twitter.com/trss/'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = 'themes/pelican-bootstrap3'
+THEME = 'mytheme/notmyidea'
 TWITTER_USERNAME = 'trss'
 
 # Uncomment following line if you want document-relative URLs when developing
