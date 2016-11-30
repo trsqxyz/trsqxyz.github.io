@@ -41,10 +41,11 @@ DEFAULT_PAGINATION = 10
 THEME = 'mytheme/notmyidea'
 TWITTER_USERNAME = 'trss'
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS =(('Archives', 'archives.html'),
             ('Tags', 'tags.html'),
-            ('About', 'about.html'),
+            ('About', 'pages/about.html'),
             )
 
 # Uncomment following line if you want document-relative URLs when developing
