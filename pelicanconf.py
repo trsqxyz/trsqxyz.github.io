@@ -12,8 +12,8 @@ TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'jp'
 DATE_FORMATS = {
-    'en': '%Y-%m-%d',
-    'jp': '%Y-%m-%d',
+    'en': '%Y-%m-%d %H:%M',
+    'jp': '%Y-%m-%d %H:%M',
 }
 
 # Feed generation is usually not desired when developing
