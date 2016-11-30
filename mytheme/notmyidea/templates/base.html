@@ -59,10 +59,6 @@
                             {% if FEED_ALL_RSS %}
                             <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
                             {% endif %}
-
-                        {% for name, link in SOCIAL %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
-                        {% endfor %}
                         </ul>
                 </div><!-- /.social -->
         {% endif %}
