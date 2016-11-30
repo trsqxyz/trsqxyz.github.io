@@ -15,7 +15,6 @@
                 {% endfor %}
         </address>
         {% endif %}
-        Category: <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></br>
 {% include 'taglist.html' %}
 {% import 'translations.html' as translations with context %}
 {{ translations.translations_for(article) }}

@@ -1,2 +1,17 @@
 {% extends "index.html" %}
 {% block title %}{{ SITENAME }} - {{ tag }}{% endblock %}
+{% block content %}
+<section id="content" class="body">
+<header>
+      <h2>Index of {{ tag }}</h2>
+</header>
+
+<dl>
+{% for article in dates %}
+    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    ({{ article.locale_date }} JST) 
+    </dd>
+{% endfor %}
+</dl>
+</section>
+{% endblock %}
