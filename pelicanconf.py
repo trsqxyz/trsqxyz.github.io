@@ -42,5 +42,9 @@ THEME = 'mytheme/notmyidea'
 TWITTER_USERNAME = 'trss'
 DISPLAY_CATEGORIES_ON_MENU = False
 
+MENUITEMS =(('Archives', '/archives.html'),
+            ('Tags', 'tags.html'),
+            )
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
