@@ -5,6 +5,20 @@
     <h1 class="entry-title">{{ page.title }}</h1>
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}
+    <footer class="post-info">
+            <div class="published" title="{{ page.date.isoformat() }}">
+                    Published: {{ page.locale_date }}
+            </div>
+            {% if page.modified %}
+            <div class="modified" title="{{ page.modified.isoformat() }}">
+                    Updated: {{ page.locale_modified }}
+            </div>
+            {% endif %}
+    {% import 'translations.html' as translations with context %}
+    {{ translations.translations_for(page) }}
+    {% include 'twitter.html' %}
+    </footer><!-- /.post-info -->
     {{ page.content }}
 </section>
+
 {% endblock %}
