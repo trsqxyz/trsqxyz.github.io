@@ -42,6 +42,9 @@ THEME = 'mytheme/notmyidea'
 TWITTER_USERNAME = 'trss'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
+DEFAULT_CATEGORY = 'log'
+TEMPLATE_PAGES = {'pages.html': 'pages/index.html',
+                }
 
 MENUITEMS =(('Archives', 'archives.html'),
             ('About', 'pages/about.html'),

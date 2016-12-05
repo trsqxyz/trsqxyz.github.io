@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="content" class="body">
+<header>
+      <h2>Pages</h2>
+</header>
+<dl>
+{% for pg in pages %}
+    <dd>{% if pg == page %} class="active"{% endif %}<a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a> ({{ pg.locale_date }} JST)</dd>
+{% endfor %}
+</dl>
+</section>
+{% endblock %}
