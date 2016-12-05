@@ -6,7 +6,10 @@
 </header>
 <dl>
 {% for pg in pages %}
-    <dd>{% if pg == page %} class="active"{% endif %}<a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a> ({{ pg.locale_date }} JST)</dd>
+    <dd>{% if pg == page %} class="active"{% endif %}<a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
+    ({% if pg.locale_modified%}Update: {{ pg.locale_modified }}
+    {% else %}Published: {{ pg.locale_date }}
+    {% endif %} JST)</dd>
 {% endfor %}
 </dl>
 </section>

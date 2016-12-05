@@ -8,7 +8,9 @@
 <dl>
 {% for article in dates %}
     <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-    ({{ article.locale_date }} JST)
+    ({% if article.locale_modified%}Update: {{ article.locale_modified }}
+    {% else %}Published: {{ article.locale_date }}
+    {% endif %} JST)
     {% if article.tags %} # {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a> {% endfor %} {% endif %}
     </dd>
 {% endfor %}
