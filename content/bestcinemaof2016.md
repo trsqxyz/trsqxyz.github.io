@@ -1,6 +1,6 @@
 Title: Best Cinema of 2016
 Date: 2016/12/11 11:05
-url: best_cinema_of_2016
+url: best_cinema_of_2016.html
 
 
 順位つけてますけどオススメというか気に入った、という感じで。  
