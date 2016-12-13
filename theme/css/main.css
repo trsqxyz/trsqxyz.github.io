@@ -42,6 +42,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: helvetica, hirakakupro-w3, HiraKakuStd-W8, sans-serif;
 }
 
+h1, h2 { margin-top: 1.5em;}
 h3, h4, h5, h6 { margin-top: .8em; }
 	
 hr { border: 2px solid #EEEEEE; }
@@ -80,8 +81,8 @@ ol {
 	margin: 0em 0 0 1.5em;
 }
 
-li { margin-top: 0.5em;
-     margin-bottom: 1em; }
+li { margin-top: .3em;
+     margin-bottom: .2em; }
 
 .post-info {
     float:right;
