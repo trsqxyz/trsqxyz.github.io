@@ -48,6 +48,7 @@ TEMPLATE_PAGES = {'pages.html': 'pages/index.html',
 
 MENUITEMS =(('Archives', 'archives.html'),
             ('About', 'pages/about.html'),
+            ('Coffee Shops', 'pages/coffeeshops.html'),
             )
 
 # Uncomment following line if you want document-relative URLs when developing
