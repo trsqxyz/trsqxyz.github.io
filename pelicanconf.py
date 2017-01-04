@@ -33,7 +33,6 @@ SOCIAL = (('Twitter', 'https://twitter.com/trss/'),
           ('Instagram', 'https://instagr.am/trss/'),
           ('Tumblr', 'https://trss.tumblr.com/'),
           ('Photograph', 'https://nyis.tumblr.com/'),
-          ('Blog', 'https://trss.hatenablog.com'),
           )
 
 DEFAULT_PAGINATION = 10
@@ -42,6 +41,7 @@ THEME = 'mytheme/notmyidea'
 TWITTER_USERNAME = 'trss'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
+USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = 'log'
 TEMPLATE_PAGES = {'pages.html': 'pages/index.html',
                 }
