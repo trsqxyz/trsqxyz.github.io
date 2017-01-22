@@ -18,3 +18,4 @@ Url: pages/coffeeshops.html
 - [Counter Culture Coffee](https://counterculturecoffee.com/)
 - [Kaffa Roastery](https://www.kaffaroastery.fi/)
 - [HONO ROASTERIA](http://www.honojapan.com/)
+- [AURORA COFFEE](http://www.auroracoffee.jp/)
