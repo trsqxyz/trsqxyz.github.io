@@ -49,7 +49,5 @@ url: technium.html
 
 > 無限ゲームは、ただ続けるためのゲームだ。誰も勝者はいないので、終わることはない。(中略)無限ゲームは、ルールを変えることでしか続かない。終わらないためには、そのルールでゲームは実行されなくてはならない。  
 
-<a href="https://www.amazon.co.jp/%E3%83%86%E3%82%AF%E3%83%8B%E3%82%A6%E3%83%A0__%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AF%E3%81%A9%E3%81%93%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E3%81%AE%E3%81%8B-%E3%82%B1%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B1%E3%83%AA%E3%83%BC/dp/4622077531/ref=as_li_ss_il?ie=UTF8&qid=1486461049&sr=8-1&keywords=%E3%83%86%E3%82%AF%E3%83%8B%E3%82%A6%E3%83%A0&linkCode=li2&tag=trshuta-22&linkId=4df3c5fc7657816dcea6cfdd5b4fe5c7" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4622077531&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=trshuta-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=trshuta-22&l=li2&o=9&a=4622077531" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
-
 テクノロジーはなぜうまれたのか、それはいつからなのか、それは一体なんなのか。宇宙に無秩序が発生した瞬間から構造化するチカラ(エクソトロピー)が働きつづけ、可能性と選択肢が増え続けてきた。素粒子の自由意志の上にわれわれがあり、テクノロジーの子どもであるわれわれは、テクニウムの子どもである。テクニウムはわれわれを超えて知性を拡張し宇宙に満ちていく。  
 > 産めよ 増えよ 地に満ちよ  
